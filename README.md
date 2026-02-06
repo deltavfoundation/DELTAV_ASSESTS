@@ -7,7 +7,7 @@ Official brand identity, logos, and mission flyers for the Delta V Foundation st
 ---
 
 ## 🌟 Our Mission
-Founded by a first-generation engineering student, Delta V serves as a **Digital Research & Knowledge Hub**. Our goal is to provide students—regardless of their background or stream—with the resources they need to transition into higher education with confidence.
+Delta V serves as a **Digital Research & Knowledge Hub**. Our goal is to provide students—regardless of their background or stream—with the resources they need to transition into higher education with confidence.
 
 ## 📂 What We Do
 We operate as a **Passive Research Hub**, documenting our own learning journeys and technical projects to build a permanent library for others.
